@@ -10,7 +10,5 @@
 
 extern char **environ; /* Environment variable */
 
-void execute_command(char *command, char **argv);
-
 #endif /* SHELL_H */
 
