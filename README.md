@@ -1,4 +1,5 @@
-Simple Shell
+#Simple Shell
+
 A basic UNIX command-line interpreter built in C. This project is a simple implementation of a shell that can execute commands in both interactive and non-interactive modes.
 
 📌 Features
