@@ -1,5 +1,5 @@
 #include "shell.h"
-
+ 
 /**
  * execute_command - Executes user input as a command
  * @command: The command string
